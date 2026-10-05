@@ -32,11 +32,13 @@ the operating system and host after obtaining execution on a machine.
 ## Atomic Red Team Test
 
 **Atomic:** T1082-1 — System Information Discovery 
-## Screenshot 
-../Screenshot/Screenshot(178).png 
+
 
 
 The test was executed using:
 
 ```powershell
 Invoke-AtomicTest T1082 -TestNumbers 1
+```
+## Screenshot 
+[![Screenshot](../Screenshot/Screenshot%28178%29.png)](../Screenshot/Screenshot%28178%29.png)
