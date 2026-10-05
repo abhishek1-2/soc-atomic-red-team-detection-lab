@@ -41,4 +41,4 @@ The test was executed using:
 Invoke-AtomicTest T1082 -TestNumbers 1
 ```
 ## Screenshot 
-[View Screenshot](../Screenshot/Screenshot(178).png) 
+[View Screenshot](../Screenshot/Screenshot1.png) 
